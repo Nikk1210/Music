@@ -1,0 +1,15 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 02DD-E3C6
+
+ Directory of e:\Songs\Music
+
+04/01/2017  06:54 PM    <DIR>          .
+04/01/2017  06:54 PM    <DIR>          ..
+05/01/2013  12:39 AM         3,511,046 Race_2_Party_On_My_Mind_K_K_Ft_Shefali_Alvaris_Ft_Yo_Yo_Honey_Singh.mp3
+05/01/2013  12:39 AM         1,665,338 Shootout_At_Wadala_Laila_Ft_Remix_Gourav_Das_Gupta_N_Roshan_Balu_Ft_Mika_Singh_N_Anand_Raj_Anand.mp3
+04/01/2017  06:54 PM                 0 te1.txt
+05/01/2013  12:39 AM         2,247,764 Teri_Jhuki_Nazar_murder3.mp3
+04/01/2017  05:10 PM    <DIR>          test1
+04/01/2017  05:16 PM               705 test1.tx
+               5 File(s)      7,424,853 bytes
+               3 Dir(s)  83,867,828,224 bytes free
